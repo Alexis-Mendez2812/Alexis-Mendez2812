@@ -10,27 +10,21 @@
 
 <h2 align="center">Sobre mí</h2>
 
-```golang
-paquete principal
-importar (
-	" fmt "
-)
-escriba  Biomapa  [ cadena ] cadena _
-función  principal () {
-	para  k , v  :=  rango  GetBio () {
-		fmt. Imprimirf ( " %+v : %+v \n " , k, v)
-	}
-}
-func  GetBio () Bio {
-	devolver biografía{
-		" - ⚡ Biografía rápida: " :                     " Una especie de híbrido metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado " ,
-		" - 🔭 Actualmente estoy trabajando en " :       " Tredicom como desarrollador de software senior --- UAdeC como docente a tiempo parcial " ,
-		" - 🌱 Actualmente estoy aprendiendo " :         " Golang, MongoDB, RabbitMQ, K8s, GCP (pila tecnológica de mi empresa) --- Mejorando mis habilidades de front-end para la pila MERN (objetivo personal) " ,
+```js
+import {BioEn,BioEs} from "me"
+import {DB , BACK-END , FRONT-END } from "HENRY"
+let GetBio=(BioEs)=>{
+	return (
+    <div>{
+		" - ⚡ Biografía rápida:" :  "   " ,
+		" - 🔭 Actualmente estoy trabajando en " :  "Un ecommerce desde 0 , utilizando todas las tecnologias aprendidas teniendo como prototipo el esquema de las plataformas de straming mas conocidas con contenido on demand y contenido premium. tambien catalogando a los usuarios por varias membresias" ,
+		" - 🌱 Actualmente estoy aprendiendo " :  [DB:["Postgres","MongoDB"] , BACK-END:["Node"] , FRONT-END:["React","Redux"] ] ,
 		" - 👯 Estoy buscando colaborar en " : " Proyectos relacionados con Python, Golang y Docker " ,
 		" - 🤔 Estoy buscando ayuda con " :      " Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅 " ,
 		" - 💬 Pregúntame sobre " :                   " Python, PHP, Laravel, SQL, diseño y arquitectura de software, desarrollo web y SEO " ,
-		" - 📫 Cómo contactarme: " :               " https://github.com/Alexis-Mendez2812#you-can-reach-me-at-alien " ,
-	}
+		" - 📫 Cómo contactarme: " :               " https://github.com/Alexis-Mendez2812#you-can-reach-me-at-alien " ,}
+    </div>
+	)
 }
 ```
 
@@ -91,9 +85,8 @@ func  GetBio () Bio {
 
 <h4 align="center">Estadísticas de perfil : musical_keyboard : </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexis-Mendez2812&show_icons=true&theme=synthwave" alt="Alexis-Mendez2812 :: Estadísticas de perfil" /></ p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexis-Mendez2812&show_icons=true&theme=synthwave" alt="Alexis-Mendez2812" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexis-Mendez2812&show_icons=true&theme=synthwave" alt="Alexis-Mendez2812 :: Profile Stats" /></p>
 
 <!---
 Alexis-Mendez2812/Alexis-Mendez2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
