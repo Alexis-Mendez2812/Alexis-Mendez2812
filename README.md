@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexis-Mendez2812)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -29,7 +29,7 @@ func  GetBio () Bio {
 		" - 👯 Estoy buscando colaborar en " : " Proyectos relacionados con Python, Golang y Docker " ,
 		" - 🤔 Estoy buscando ayuda con " :      " Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅 " ,
 		" - 💬 Pregúntame sobre " :                   " Python, PHP, Laravel, SQL, diseño y arquitectura de software, desarrollo web y SEO " ,
-		" - 📫 Cómo contactarme: " :               " https://github.com/AnhellO#you-can-reach-me-at-alien " ,
+		" - 📫 Cómo contactarme: " :               " https://github.com/Alexis-Mendez2812#you-can-reach-me-at-alien " ,
 	}
 }
 ```
@@ -37,7 +37,7 @@ func  GetBio () Bio {
 <h2 align="center">Puedes contactarme en : alien : </h2>
 
 <p align="centro">
-  <a href="https://dev.to/anhello">
+  <a href="https://dev.to/Alexis-Mendez2812">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Perfil DEV de Ángel Santiago Jaime Zavala" height="30" width="30">
   </a>
 
@@ -53,11 +53,11 @@ func  GetBio () Bio {
     <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Perfil de Stack Exchange de Ángel Santiago Jaime Zavala" height="30" width="30">
   </a>
 
-  <a href="https://stackshare.io/anhello">
+  <a href="https://stackshare.io/Alexis-Mendez2812">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Perfil de StackShare de Angel Santiago Jaime Zavala" height="30" width="30">
   </a>
   
-  <a href="https://gitlab.com/AnhellO">
+  <a href="https://gitlab.com/Alexis-Mendez2812">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Perfil de GitLab de Ángel Santiago Jaime Zavala" height="30" width="30">
   </a>
   
@@ -74,8 +74,8 @@ func  GetBio () Bio {
 
 <p align="center">Herramientas que uso a diario, o que he usado o con las que he trabajado (mucho o poco) en el pasado</p>
 <p align="centro">
-  <a href="https://stackshare.io/anhello/mi-pila-personal">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  <a href="https://stackshare.io/Alexis-Mendez2812/mi-pila-personal">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Alexis-Mendez2812 :: StackShare" />
   </a>
 </p>
 
@@ -83,15 +83,15 @@ func  GetBio () Bio {
 
 <h4 align="center">Recuento de visitantes : ojos : </h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Conteo de visitantes" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Alexis-Mendez2812}/count.svg" alt="Alexis-Mendez2812 :: Conteo de visitantes" /></p>
 
 <h4 align="center">Idiomas principales : lengua : </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Idiomas principales" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-Mendez2812&langs_count=10&theme=tokyonight&layout=compact" alt="Alexis-Mendez2812 :: Idiomas principales" /></p>
 
 <h4 align="center">Estadísticas de perfil : musical_keyboard : </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Estadísticas de perfil" /></ p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexis-Mendez2812&show_icons=true&theme=synthwave" alt="Alexis-Mendez2812 :: Estadísticas de perfil" /></ p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
