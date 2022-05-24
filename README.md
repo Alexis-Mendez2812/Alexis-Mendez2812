@@ -1,34 +1,30 @@
-- 👋 Hi, I’m Alexis Mendez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alexis-Mendez2812)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<h2 align="center">Sobre mí</h2>
+<h1 align="center">Acerca de mí / /About Me</h1>
 
 ```js
 import {BioEn,BioEs} from "me"
 import {DB , BACK-END , FRONT-END } from "HENRY"
 let GetBio=(BioEs)=>{
 	return (
-    <div>{
-		" - ⚡ Biografía rápida:" :  "   " ,
-		" - 🔭 Actualmente estoy trabajando en " :  "Un ecommerce desde 0 , utilizando todas las tecnologias aprendidas teniendo como prototipo el esquema de las plataformas de straming mas conocidas con contenido on demand y contenido premium. tambien catalogando a los usuarios por varias membresias" ,
-		" - 🌱 Actualmente estoy aprendiendo " :  [DB:["Postgres","MongoDB"] , BACK-END:["Node"] , FRONT-END:["React","Redux"] ] ,
-		" - 👯 Estoy buscando colaborar en " : " Proyectos relacionados con Python, Golang y Docker " ,
-		" - 🤔 Estoy buscando ayuda con " :      " Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅 " ,
-		" - 💬 Pregúntame sobre " :                   " Python, PHP, Laravel, SQL, diseño y arquitectura de software, desarrollo web y SEO " ,
-		" - 📫 Cómo contactarme: " :               " https://github.com/Alexis-Mendez2812#you-can-reach-me-at-alien " ,}
-    </div>
+
+Español: Soy un Estudiante de desarrollo web en busca de nuevos desafíos para ponerme a prueba y aprender nuevas habilidades para crecer como programador y persona. Hice un cursado en Henry ,donde aprendí a hacer paginas web tanto desde el Frontend como el Backend , me divierte programar y crear mundos nuevos con mi imaginación.
+
+English: I am a Web Development Student looking for new challenges to test myself and learn new skills to grow as a programmer and person. I took a course at Henry, where I learned to make web pages both from the Frontend and the Backend, I enjoy programming and creating new worlds with my imagination.
 	)
 }
 ```
 
-<h2 align="center">Puedes contactarme en : alien : </h2>
+
+
+
+
+
+
+
+
+
+
+<h2 align="center">Puedes contactarme en  </h2>
 
 <p align="centro">
   <a href="https://dev.to/Alexis-Mendez2812">
@@ -86,6 +82,8 @@ let GetBio=(BioEs)=>{
 <h4 align="center">Estadísticas de perfil : musical_keyboard : </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexis-Mendez2812&show_icons=true&theme=synthwave" alt="Alexis-Mendez2812 :: Profile Stats" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alexis-Mendez2812)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Alexis-Mendez2812/Alexis-Mendez2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
