@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexis-Mendez2812
+- 👋 Hi, I’m Alexis Mendez
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -73,19 +73,18 @@ let GetBio=(BioEs)=>{
   </a>
 </p>
 
-<h2 align="center">Estadísticas de Github : bar_chart : </h2>
+<h2 align="center">Estadísticas de Github 📊: </h2>
 
-<h4 align="center">Recuento de visitantes : ojos : </h4>
+<h4 align="center">Recuento de visitantes :ojos: </h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Alexis-Mendez2812}/count.svg" alt="Alexis-Mendez2812 :: Conteo de visitantes" /></p>
 
-<h4 align="center">Idiomas principales : lengua : </h4>
+<h4 align="center">Idiomas principales :lengua: </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-Mendez2812&langs_count=10&theme=tokyonight&layout=compact" alt="Alexis-Mendez2812 :: Idiomas principales" /></p>
 
 <h4 align="center">Estadísticas de perfil : musical_keyboard : </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexis-Mendez2812&show_icons=true&theme=synthwave" alt="Alexis-Mendez2812" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexis-Mendez2812&show_icons=true&theme=synthwave" alt="Alexis-Mendez2812 :: Profile Stats" /></p>
 
 <!---
