@@ -1,4 +1,6 @@
-
+<h2 align="center">
+Full Stack Developer :heart: from Argentina to :earth_americas: 💛
+</h2>
 <h1 align="center">Acerca de mí / /About Me</h1>
 
 ```js
@@ -26,48 +28,12 @@ English: I am a Web Development Student looking for new challenges to test mysel
 
 <h2 align="center">Puedes contactarme en  </h2>
 
-<p align="centro">
-  <a href="https://dev.to/Alexis-Mendez2812">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Perfil DEV de Ángel Santiago Jaime Zavala" height="30" width="30">
-  </a>
 
   <a href="https://www.linkedin.com/en/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Perfil de LinkedIn Ángel Santiago Jaime Zavala" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Perfil de LinkedIn Ángel Santiago Jaime Zavala" height="50" width="50">
   </a>
-
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Perfil de desbordamiento de pila de Ángel Santiago Jaime Zavala" height="30" width="30">
-  </a>
-
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Perfil de Stack Exchange de Ángel Santiago Jaime Zavala" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/Alexis-Mendez2812">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Perfil de StackShare de Angel Santiago Jaime Zavala" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/Alexis-Mendez2812">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Perfil de GitLab de Ángel Santiago Jaime Zavala" height="30" width="30">
-  </a>
-  
-  <a href="https://medio.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Perfil mediano de Ángel Santiago Jaime Zavala" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Canal de YouTube del Ángel Santiago Jaime Zavala" height="30" width="30">
-  </a>
-</p>
-
-<h2 align="center">Mi pila :man_technologist:</h2>
-
-<p align="center">Herramientas que uso a diario, o que he usado o con las que he trabajado (mucho o poco) en el pasado</p>
-<p align="centro">
-  <a href="https://stackshare.io/Alexis-Mendez2812/mi-pila-personal">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Alexis-Mendez2812 :: StackShare" />
-  </a>
-</p>
+<a href="mailto:281212.namaste@gmail.com" ><img height="50" width="50" src="https://github.com/Alexis-Mendez2812/Alexis-Mendez2812/blob/main/logos/gmail-icon%20green.png">
+</span>
 
 <h2 align="center">Estadísticas de Github 📊: </h2>
 
